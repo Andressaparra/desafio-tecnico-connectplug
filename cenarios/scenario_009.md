@@ -20,4 +20,4 @@ E o saldo do produto no estoque permanece 18 unidades
 - Necessário revisar validação de estoque no sistema.
 
 ## Evidências
-
+![09 falhado](https://github.com/user-attachments/assets/6fa77119-ea35-48b0-81c0-96672136574d)

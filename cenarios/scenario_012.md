@@ -20,4 +20,4 @@ E o saldo do produto no estoque permanece 0 unidades
 - Revisar validação de estoque zero.
 
 ## Evidências
-![Falha na venda](../evidencias/scenario_012/screenshot1.png)
+![12 falhado](https://github.com/user-attachments/assets/a269c802-951c-4690-b411-ab85aebfb2a7)
